@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cake-quiz/static/css/main.853291ea.css",
-    "main.js": "/cake-quiz/static/js/main.1c4785fc.js",
+    "main.css": "/cake-quiz/static/css/main.c18085d2.css",
+    "main.js": "/cake-quiz/static/js/main.788751ed.js",
     "index.html": "/cake-quiz/index.html",
-    "main.853291ea.css.map": "/cake-quiz/static/css/main.853291ea.css.map",
-    "main.1c4785fc.js.map": "/cake-quiz/static/js/main.1c4785fc.js.map"
+    "main.c18085d2.css.map": "/cake-quiz/static/css/main.c18085d2.css.map",
+    "main.788751ed.js.map": "/cake-quiz/static/js/main.788751ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.853291ea.css",
-    "static/js/main.1c4785fc.js"
+    "static/css/main.c18085d2.css",
+    "static/js/main.788751ed.js"
   ]
 }
