@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cake-quiz/static/css/main.853291ea.css",
+    "main.js": "/cake-quiz/static/js/main.1c4785fc.js",
+    "index.html": "/cake-quiz/index.html",
+    "main.853291ea.css.map": "/cake-quiz/static/css/main.853291ea.css.map",
+    "main.1c4785fc.js.map": "/cake-quiz/static/js/main.1c4785fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853291ea.css",
+    "static/js/main.1c4785fc.js"
+  ]
+}
